@@ -13,6 +13,7 @@ This project aimed to create a sales dashboard analysis of a dataset of Coffee S
 * Used *Index* function for product data (Coffee Type, Roast Type, Size, Unit Price).
 * Created a formula for Sales.
 * Created new colums of "Coffee Type Name" and "Roast Type Name" for more clarification.
+  ![Alt Text](https://github.com/pcm19b/Project-Excel/blob/b7b946d094fad80ea37f7d705008807b538f7519/Screen%20Shot%202023-08-13%20at%2012.11.01%20PM.png)
 3. Converted "Orders" sheet into a table in order to be used to create pivot tables.
 4. Created visualizations:
 * Total Sales Over Time line chart with a timeline of dates as well as slicers for Roast Type, Size, and Loyalty Card
