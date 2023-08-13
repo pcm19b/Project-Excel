@@ -7,8 +7,8 @@ This project aimed to create a sales dashboard analysis of a dataset of Coffee S
 *Dataset obtained from Kaggle.
 *Data cleansed in Excel.
 **Filled empty columns in the primary "Orders" sheet using data from the "Customers" and "Products" sheets.
-***Used *XLookUp* function for customer data (Customer Name, Email, Country).
-***Used *Index* function for product data (Coffee Type, Roast Type, Size, Unit Price).
+**Used *XLookUp* function for customer data (Customer Name, Email, Country).
+**Used *Index* function for product data (Coffee Type, Roast Type, Size, Unit Price).
 **Created a formula for Sales.
 **Created new colums of "Coffee Type Name" and "Roast Type Name" for more clarification.
 *Converted "Orders" sheet into a table in order to be used to create pivot tables.
