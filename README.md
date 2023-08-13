@@ -3,7 +3,8 @@ A project using Microsoft Excel to clean a dataset of coffee sales before creati
 
 ## Project Overview
 This project aimed to create a sales dashboard analysis of a dataset of Coffee Sales. The completed dashboard in addition to the complete dataset can be found [here](https://github.com/pcm19b/Project-Excel/blob/9f65f92673fae5a19f3f7661888a103137d57634/Coffee%20Sales%20Dashboard.xlsx)
-![Alt Text](Screen Shot 2023-08-13 at 2.00.25 PM.png)
+
+![Alt Text](https://github.com/pcm19b/Project-Excel/blob/9f65f92673fae5a19f3f7661888a103137d57634/Screen%20Shot%202023-08-13%20at%202.00.25%20PM.png)
 
 1. [Dataset](https://github.com/pcm19b/Project-Excel/blob/adf83b772ce1c860bc1f8ed8f20d06151eb2b2bc/coffeeOrdersData.xlsx) obtained from Kaggle.
 2. Data cleansed in Excel.
