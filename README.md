@@ -3,6 +3,7 @@ A project using Microsoft Excel to clean a dataset of coffee sales before creati
 
 ## Project Overview
 This project aimed to create a sales dashboard analysis of a dataset of Coffee Sales. 
+
 *Dataset obtained from Kaggle.
 *Data cleansed in Excel.
 **Filled empty columns in the primary "Orders" sheet using data from the "Customers" and "Products" sheets.
